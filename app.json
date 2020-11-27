@@ -1,0 +1,64 @@
+{
+  "pages": [
+    "pages/about/about",
+    "pages/index/index",
+    "pages/com/com",
+    "pages/add/add",
+    "pages/one/one",
+    "pages/two/two",
+    "pages/detail/detail",
+    "pages/skip/skip",
+    "pages/skip6/skip6",
+    "pages/skip2/skip2",
+    "pages/skip3/skip3",
+    "pages/skip4/skip4",
+    "pages/skip7/skip7",
+    "pages/skip8/skip8",
+    "pages/skip9/skip9",
+    "pages/skip10/skip10",
+    "pages/skip11/skip11",
+    "pages/skip12/skip12",
+    "pages/skip13/skip13",
+    "pages/skip14/skip14",
+    "pages/skip15/skip15",
+    "pages/skip16/skip16",
+    "pages/skip17/skip17",
+    "pages/skip18/skip18",
+    "pages/skip19/skip19",
+    "pages/skip20/skip20"
+  ],
+
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#91D300",
+    "navigationBarTitleText": "卉泽",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#000000", 
+    "selectedColor": "#91d300", 
+    
+    "list": [
+      {
+        "pagePath": "pages/about/about",
+        "text": "主页",
+        "iconPath": "images/jiarufangjian-01.png",
+        "selectedIconPath": "images/jiarufangjian-01.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "扫码",
+        "iconPath": "images/paizhao.png",
+        "selectedIconPath": "images/paizhao.png"
+      },
+      
+      {
+        "pagePath": "pages/com/com",
+        "text": "社区",
+        "iconPath": "images/pengyouquan.png",
+        "selectedIconPath": "images/pengyouquan.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

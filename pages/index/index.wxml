@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container"><view>  
+ <botton type="1" bindtap="click"><image mode = "widthFix" class="image" src="/images/a.png" mode="widthFix" style="width:100%"></image></botton>
+  <view>{{show}}</view>  
+  <view class = "tip" mode="widthFix" style="width:100%">点加号，扫码养花</view>
+</view> 
+</view>

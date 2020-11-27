@@ -1,0 +1,21 @@
+<!--pages/skip/skip.wxml-->
+<navigator url='../skip1/skip1'><button type="primary">一号柜</button></navigator>
+<navigator url='../skip2/skip2'><button type="primary">二号柜</button></navigator>
+<navigator url='../skip3/skip3'><button type="primary">三号柜</button></navigator>
+<navigator url='../skip4/skip4'><button type="primary">四号柜</button></navigator>
+<navigator url='../skip1/skip1'><button type="primary">五号柜</button></navigator>
+<navigator url='../skip6/skip6'><button type="primary">六号柜</button></navigator>
+<navigator url='../skip7/skip7'><button type="primary">七号柜</button></navigator>
+<navigator url='../skip8/skip8'><button type="primary">八号柜</button></navigator>
+<navigator url='../skip9/skip9'><button type="primary">九号柜</button></navigator>
+<navigator url='../skip10/skip10'><button type="primary">十号柜</button></navigator>
+<navigator url='../skip11/skip11'><button type="primary">十一号柜</button></navigator>
+<navigator url='../skip12/skip12'><button type="primary">十二号柜</button></navigator>
+<navigator url='../skip13/skip13'><button type="primary">十三号柜</button></navigator>
+<navigator url='../skip14/skip14'><button type="primary">十四号柜</button></navigator>
+<navigator url='../skip15/skip15'><button type="primary">十五号柜</button></navigator>
+<navigator url='../skip16/skip16'><button type="primary">十六号柜</button></navigator>
+<navigator url='../skip17/skip17'><button type="primary">十七号柜</button></navigator>
+<navigator url='../skip18/skip18'><button type="primary">十八号柜</button></navigator>
+<navigator url='../skip19/skip19'><button type="primary">十九号柜</button></navigator>
+<navigator url='../skip20/skip20'><button type="primary">二十号柜</button></navigator>

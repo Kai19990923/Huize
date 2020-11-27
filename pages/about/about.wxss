@@ -1,0 +1,25 @@
+/* pages/about/about.wxss */
+.banner{
+  height:400rpx;
+}
+.banner image{
+  width: 100%;
+}
+.title{
+  font-size: 16px;
+  margin:15rpx;
+  text-align:center;
+}
+.pass1{
+  height:500rpx;
+  width:100%;
+  border-radius: 10rpx;
+  overflow: hidden;
+}
+
+.pass2{
+  height:500rpx;
+  width:100%;
+  border-radius: 10rpx;
+  overflow: hidden;
+}
